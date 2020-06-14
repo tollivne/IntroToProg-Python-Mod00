@@ -10,4 +10,11 @@ Although this is very simple code, it required downloading and installing the Py
 ```
 print("Hello, World!")
 ```
-*Code to print "Hello World"*  
+*Figure 1 - Code to print "Hello World"*  
+
+The output is shown in Figure 2.
+
+![Figure 2](https://tollivne.github.io/IntroToProg-Python-Mod00/HelloWorld.png "Figure 2 - Output of Hellow World") 
+*Figure 2 - Output of "Hellow World" program
+
+So, that's it.  My first Python program!
